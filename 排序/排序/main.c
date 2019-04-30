@@ -2,6 +2,8 @@
 #include"SelectSort.h"
 #include"InsertSort.h"
 #include"QuickSort.h"
+#include"BubleSort.h"
+#include"ShellSort.h"
 
 int main()
 {
